@@ -1,1 +1,1 @@
-# musc-player
+# music-player
